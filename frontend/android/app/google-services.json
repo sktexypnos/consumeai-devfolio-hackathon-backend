@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "583144752239",
+    "project_id": "consumewise-435608",
+    "storage_bucket": "consumewise-435608.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583144752239:android:76286054343c0d7856799a",
+        "android_client_info": {
+          "package_name": "com.consumeai.consumeai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJN9hP2J1UfD5z7PFfvDeieqbjFVB-SZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583144752239:android:0014eb19fb7b0dea56799a",
+        "android_client_info": {
+          "package_name": "com.mycompany.consumewise"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJN9hP2J1UfD5z7PFfvDeieqbjFVB-SZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

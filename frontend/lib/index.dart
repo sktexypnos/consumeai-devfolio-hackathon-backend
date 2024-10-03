@@ -1,0 +1,30 @@
+// Export pages
+export '/consume_ai_pages/login_page/login_page_widget.dart'
+    show LoginPageWidget;
+export '/consume_ai_pages/profile_step1/profile_step1_widget.dart'
+    show ProfileStep1Widget;
+export '/consume_ai_pages/forgot_password/forgot_password_widget.dart'
+    show ForgotPasswordWidget;
+export '/consume_ai_pages/onboarding/onboarding_widget.dart'
+    show OnboardingWidget;
+export '/consume_ai_pages/user_profile/user_profile_widget.dart'
+    show UserProfileWidget;
+export '/consume_ai_pages/profile_complete/profile_complete_widget.dart'
+    show ProfileCompleteWidget;
+export '/consume_ai_pages/homepage_first_time/homepage_first_time_widget.dart'
+    show HomepageFirstTimeWidget;
+export '/consume_ai_pages/homepage_post_scan/homepage_post_scan_widget.dart'
+    show HomepagePostScanWidget;
+export '/consume_ai_pages/profile_step2/profile_step2_widget.dart'
+    show ProfileStep2Widget;
+export '/consume_ai_pages/create_account/create_account_widget.dart'
+    show CreateAccountWidget;
+export '/consume_ai_pages/improve_consumewise_a_i/improve_consumewise_a_i_widget.dart'
+    show ImproveConsumewiseAIWidget;
+export '/consume_ai_pages/homepage_post_bar_scan/homepage_post_bar_scan_widget.dart'
+    show HomepagePostBarScanWidget;
+export '/consume_ai_pages/profile_step3/profile_step3_widget.dart'
+    show ProfileStep3Widget;
+export '/consume_ai_pages/profile_step4/profile_step4_widget.dart'
+    show ProfileStep4Widget;
+export '/consume_ai_pages/search/search_widget.dart' show SearchWidget;
